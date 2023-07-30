@@ -19,6 +19,7 @@ Results of training a Wasserstein GAN using the POT library, avoiding the necess
 
 
 Results of training a conditional GAN:
+
 ![gif](cGAN_demo_images/cGAN_animation_edited.gif)
 
 
