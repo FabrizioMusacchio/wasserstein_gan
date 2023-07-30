@@ -7,11 +7,15 @@ This repository contains some code for demonstrating the application of Wasserst
 
 For further details, please refer to these posts.
 
-Results of traning a default GAN on the MNIST dataset for 50 epochs:
+Results of training a default GAN on the MNIST dataset for 50 epochs:
 ![gif](GAN_images/depp_conv_gan.gif)
 
-Results of traning a Wasserstein GAN on the same dataset:
+Results of training a Wasserstein GAN on the same dataset:
 ![gif](WGAN_images/depp_conv_wgan.gif)
+
+Results of training a Wasserstein GAN using the POT library, avoiding the necessity of a discriminator:
+![gif](WGAN_images/cross_animation.gif)
+
 
 
 For reproducibility:
