@@ -14,7 +14,7 @@ Results of training a Wasserstein GAN on the same dataset:
 ![gif](WGAN_images/depp_conv_wgan.gif)
 
 Results of training a Wasserstein GAN using the POT library, avoiding the necessity of a discriminator:
-![gif](WGAN_images/cross_animation.gif)
+![gif](GAN_demo_images/cross_animation.gif)
 
 
 

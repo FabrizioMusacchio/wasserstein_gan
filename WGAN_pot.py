@@ -1,3 +1,16 @@
+"""
+A script to demonstrate the Wasserstein GAN algorithm w/o using a discriminator. Instead,
+the Wasserstein distance is computed directly between the generated samples and the data
+using the POT library.
+
+author: Fabrizio Musacchio (fabriziomusacchio.com)
+date: July 28, 2023
+
+ACKNOWLEDGEMENTS:
+The code base of the following example comes from this tutorial of the
+Python Optimal Transport (POT) library:
+https://pythonot.github.io/auto_examples/backends/plot_wass2_gan_torch.html#sphx-glr-auto-examples-backends-plot-wass2-gan-torch-py
+"""
 # %% IMPORTS
 import numpy as np
 import matplotlib.pyplot as plt
