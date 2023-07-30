@@ -4,6 +4,7 @@ This repository contains some code for demonstrating the application of Wasserst
 
 * [Wasserstein GANs](https://www.fabriziomusacchio.com/blog/2023-07-29-wgan/)
 * [Eliminating the middleman: Direct Wasserstein distance computation in WGANs without discriminator](https://www.fabriziomusacchio.com/blog/2023-07-30-wgan_with_direct_wasserstein_distance/)
+* [Conditional GANs](https://www.fabriziomusacchio.com/blog/2023-07-30-cgan/)
 
 For further details, please refer to these posts.
 
@@ -16,6 +17,9 @@ Results of training a Wasserstein GAN on the same dataset:
 Results of training a Wasserstein GAN using the POT library, avoiding the necessity of a discriminator:
 ![gif](GAN_demo_images/cross_animation.gif)
 
+
+Results of training a conditional GAN:
+![gif](cGAN_demo_images/cGAN_animation.gif)
 
 
 For reproducibility:
