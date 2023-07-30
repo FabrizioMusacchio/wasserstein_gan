@@ -1,8 +1,8 @@
 # Wasserstein GANs
 
-This repository contains the code for the following blog posts:
+This repository contains some code for demonstrating the application of Wasserstein GANs (WGANs). The code is used in the following blog posts:
 
-* [to be announced](https://www.fabriziomusacchio.com/blog)
+* [Wasserstein GANs](https://www.fabriziomusacchio.com/blog/2023-07-29-wgan/)
 
 For further details, please refer to these posts.
 
