@@ -3,6 +3,7 @@
 This repository contains some code for demonstrating the application of Wasserstein GANs (WGANs). The code is used in the following blog posts:
 
 * [Wasserstein GANs](https://www.fabriziomusacchio.com/blog/2023-07-29-wgan/)
+* [Eliminating the middleman: Direct Wasserstein distance computation in WGANs without discriminator](https://www.fabriziomusacchio.com/blog/2023-07-30-wgan_with_direct_wasserstein_distance/)
 
 For further details, please refer to these posts.
 
